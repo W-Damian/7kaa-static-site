@@ -11,9 +11,4 @@ of the game.
 
 
 ## Summary
-This is a proposed static site for the classic game Seven Kingdoms Ancient Adversaries from 1998 by Enlight Software
-[more on Wikipedia](https://en.wikipedia.org/wiki/Seven_Kingdoms_(video_game))
-
-All the images are from the original assets of the game (processed with Inkscape).
-
-![Image](https://github.com/lennyhans/7kaa-static-site/raw/main/screenshot.jpg)
+This is a proposed static site for the classic game Seven Kingdoms: Ancient Adversaries from 1998 by Enlight Software.
